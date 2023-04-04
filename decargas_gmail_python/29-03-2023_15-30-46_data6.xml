@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<facturas>
+  <fila>
+    <nombre>Espiridion Caracajo</nombre>
+    <direccion>Calle 191, Santiago</direccion>
+  </fila>
+  <fila>
+    <nombre>Matias Orrego</nombre>
+    <direccion>Los alerces, Valparaiso</direccion>
+  </fila>
+  <fila>
+    <nombre>Guadalajara venus</nombre>
+    <direccion>Yungay 2549, Valdivia</direccion>
+  </fila>
+</facturas>

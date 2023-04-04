@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<facturas>
+  <fila>
+    <nombre>Cliente 1</nombre>
+    <direccion>Calle 1, Ciudad 1</direccion>
+  </fila>
+  <fila>
+    <nombre>Cliente 2</nombre>
+    <direccion>Calle 2, Ciudad 2</direccion>
+  </fila>
+  <fila>
+    <nombre>Cliente 3</nombre>
+    <direccion>Calle 3, Ciudad 3</direccion>
+  </fila>
+</facturas>
